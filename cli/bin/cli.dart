@@ -14,7 +14,7 @@ void main(List<String> arguments) {
 }
 
 
-void searchWidipedia(List<String> arguments) {
+void searchWidipedia(List<String>? arguments) {
   print('searchWikipedia received arguments: $arguments');
 }
 
